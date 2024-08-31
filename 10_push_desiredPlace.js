@@ -1,7 +1,7 @@
 let student_information = [];
 let students = [
     [1, 2, 3, 4, 5, 6, 7],
-    ["bikash",
+    ["bikash", 
         "udayapur",
         "NEPAL",
         97066907843,
@@ -32,7 +32,8 @@ let student_3 = {
 }
 student_information.push(students, undefined, student_detail_1, student_1, undefined)// this undefined value is in (1,1) position of
 console.log(student_information);                                                // so later we can push in that position 
-console.log("______________")                                                   //  another array or object
+console.log("______________")
+console.log('') // is to create gap between                                                   //  another array or object
 
 student_information[3];
 console.log(student_information);

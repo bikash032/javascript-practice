@@ -1,0 +1,6 @@
+ 
+// ternary operator is used to write in single line for if else condition using. As it provides multliples option to choose. 
+// syntex ==> (expression)?"true"
+let a = 10;
+let b=20;
+console.log((a<b)&&(a>20)? "the statement is true":"the statement is false")

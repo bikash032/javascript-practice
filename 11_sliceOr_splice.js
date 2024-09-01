@@ -13,9 +13,9 @@ student_ID.splice(2, 3,student_detail_1);// THIS WILL DELATE THE INDEX POSITION 
 console.log(student_ID);
 
 // SLICE ==> TO TAKE OUT THE VALUE OF ARRAY OR 
-// SLICE IS THE FNCTION FOR ARRAY TO SPLIT THE VALUE AND TO MAKE SEPEERATE 
+// SLICE IS THE FNCTION FOR ARRAY TO SPLIT THE VALUE AND TO MAKE SEPEERATE without changing the structure of value
 {
-    const student_ID = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s7", "s8"]
+    const student_ID = ["s1", "s2", "s3", "s4", "s5", "s6", "s7", "s7", "s8"] 
     console.log(student_ID)
 }
 console.log(student_ID)

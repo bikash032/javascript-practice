@@ -11,5 +11,4 @@
      b. while loop 
      c. for loop
      d.for-in loop
-     e.for-of loop 
-
+     e.for-of loop*/

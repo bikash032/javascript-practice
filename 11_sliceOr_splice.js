@@ -32,9 +32,9 @@ let array = [
 
 
 ]
-for(let i=1;i<array.length;)
+for(let i=1;i<array.length;i++)
     if (array[i].location) {
-        console.log("location",array[i]);   
+        console.log("",array[i]);   
     }
     else{
         console.log("user is not defined",i);
@@ -43,7 +43,7 @@ for(let i=1;i<array.length;)
     console.log(array.length);
     
 
-  
+   
 
     
 

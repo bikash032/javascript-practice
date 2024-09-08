@@ -55,7 +55,7 @@ so to make from object to object ===>> array to object we can do
 // this is the important syntex for converting from object to object ===>> array to object 
 
 
-console.log("helo",student_details.student1.name)// this symtex is used to take out object to object
+console.log("helo",student_details.student2)// this symtex is used to take out object to object
                                                 // data
 
 

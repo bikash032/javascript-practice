@@ -5,7 +5,7 @@ let product = {
     quantaty : 30,
     price : 120000,
 }
-let product_1={
+let product_1={        // delate is done only in object.
     brand:'APPLE',
     model: 'iphone 15',
     discount : 15,

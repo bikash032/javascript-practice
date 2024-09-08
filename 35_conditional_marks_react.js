@@ -8,3 +8,4 @@ let files =[
     }
     
 ]
+// that time we use the conditional statement or ternary operator

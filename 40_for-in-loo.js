@@ -7,4 +7,4 @@ let array=[1,2,3,4,5,6,7]
 array[10]=10// this will make 3 items empty
 console.log(array);
 // so here we cannot perform that loop operation. for this we can use 
-// for in and for loop out operationd
+// for in and for loop out operation

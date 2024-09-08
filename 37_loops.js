@@ -1,6 +1,6 @@
 // /**
 //  what is loop ?
-//  ==> when we want to  repeat  multiple time of the same  ode inside the same block then we use loop.
+//  ==> when we want to  repeat  multiple time of the same  code inside the same block then we use loop.
 //  The repeation of multiple time of the same code until the condition satisfied is called as loop.
 //  To use the loop for repeation of the code lets find the same pattern of the code which is going to be repeated then use 1 
 //  code for them .
@@ -77,8 +77,19 @@ for(; ; ){
     i++;
 /*
      2. while loop
- 
- 
+it is also works as like the for loop but its syntex is diffrent 
+*/
+let k =10;
+while(k<=10)
+{
+    console.log(k);
+    k++;
+    
+}
+
+
+
+/*
  
  2. exit controlled loop 
      let me take an example of shopping center that before we entering market security do not check but all the rules are check before

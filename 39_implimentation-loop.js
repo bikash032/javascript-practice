@@ -19,7 +19,9 @@ let product=[
         discount:10
     }
 ]
-for(i=0;i<product.length;i++){// here i must be always less then (product.length) because
+for(i=0;i<product.length;i++){// here product.length is size of array which defines until when the 
+    // loops of the array must run
+    // here i must be always less then (product.length) because
                             // array is starting from always 0 indexing
     product[i].after_discount=product[i].price-product[i].discount*product[i].price/100
 }
